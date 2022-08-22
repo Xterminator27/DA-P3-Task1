@@ -1,0 +1,25 @@
+{
+  "name": "da-p3-task1",
+  "version": "1.0.0",
+  "description": "In this phase the focus will be on understanding basic concepts in solana development and getting familiar with some of the most frequently used packages.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Xterminator27/DA-P3-Task1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Xterminator27/DA-P3-Task1/issues"
+  },
+  "homepage": "https://github.com/Xterminator27/DA-P3-Task1#readme",
+  "dependencies": {
+    "@solana/spl-token": "^0.2.0",
+    "@solana/web3.js": "^1.53.0"
+  }
+}
